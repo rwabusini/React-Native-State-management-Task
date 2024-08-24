@@ -1,5 +1,5 @@
-## clone this repo into your Machine
-## npm install all dependencies
+## - Clone this repo into your Machine
+## - npm install all dependencies
 
 
 # Task: Deep Dive into Context API and State Management in React Native
@@ -47,6 +47,9 @@ You will create a multi-screen app that manages user profiles and settings using
 
 ### Hints and Tips:
 - You can start with the existing code we worked on earlier for the `UserContext` and `RawanComponent`.
+under this link: 
+https://github.com/rwabusini/Context
+
 
 - **Break It Down:** Tackle each challenge step by step, making sure each part of the app works correctly before moving on to the next.
 
